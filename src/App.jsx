@@ -8,7 +8,9 @@ function App() {
       <h3>sherzod</h3>
       <h3>Menda o'xshadi</h3>
       <button>Submit</button>
+      <h1>Pull o'xshadi</h1>
     </>
+
   );
 }
 
